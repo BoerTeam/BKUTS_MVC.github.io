@@ -1,11 +1,9 @@
-# BKUTS MVC Web Services
-
-Uygulamanızın açıklaması ve dokümantasyonu.
+# BKUTS MVC Console
 
 ## Kurulum
 
 ```bash
-git clone https://github.com/BoerTeam/BKUTS_WS_MVC.github.io
+git clone https://github.com/BoerTeam/BKUTS_MVC.github.io
 ```
 
 ## Versiyonlar
